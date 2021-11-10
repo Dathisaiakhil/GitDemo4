@@ -29,5 +29,8 @@ class Program
 
         Circle c2 = new Circle(6);
         Console.WriteLine("Area is : {0}", c2.Area());
+
+        Circle c3 = new Circle(7);
+        Console.WriteLine("Area is : {0}", c3.Area());
     }
 }
